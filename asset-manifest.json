@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/sports-plus/static/css/main.0cb54038.css",
-    "main.js": "/sports-plus/static/js/main.c07c1446.js",
+    "main.js": "/sports-plus/static/js/main.dfb54d85.js",
     "static/js/787.f587e8d5.chunk.js": "/sports-plus/static/js/787.f587e8d5.chunk.js",
     "static/media/ny.jpg": "/sports-plus/static/media/ny.dbf252a81a7dba2eafbf.jpg",
     "static/media/logo.png": "/sports-plus/static/media/logo.dc377353735668466ac6.png",
     "index.html": "/sports-plus/index.html",
     "main.0cb54038.css.map": "/sports-plus/static/css/main.0cb54038.css.map",
-    "main.c07c1446.js.map": "/sports-plus/static/js/main.c07c1446.js.map",
+    "main.dfb54d85.js.map": "/sports-plus/static/js/main.dfb54d85.js.map",
     "787.f587e8d5.chunk.js.map": "/sports-plus/static/js/787.f587e8d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cb54038.css",
-    "static/js/main.c07c1446.js"
+    "static/js/main.dfb54d85.js"
   ]
 }
