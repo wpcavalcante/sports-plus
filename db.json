@@ -1,0 +1,138 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "id_user": 1,
+        "imageUrl": "https://media.gazetadopovo.com.br/sites/3/2022/12/11183517/neymar-2-960x540.jpg",
+        "category": "Futebol",
+        "title": "Qual o destino da seleção?",
+        "resume": "Após derrota inesperada, Seleção Brasileira é eliminada da Copa do Mundo. Afinal, quais são os próximos passos?",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod risus ac tincidunt porta. Quisque efficitur ipsum in lacus interdum egestas. Fusce porta velit felis, non tincidunt arcu ullamcorper quis. Fusce ullamcorper lorem at ipsum gravida dapibus. Quisque elementum mi vel nisi eleifend, sit amet imperdiet dolor facilisis. Nullam vehicula, massa sit amet cursus tristique, eros odio pretium leo, egestas lacinia erat mi nec arcu. Integer tempus felis massa. Curabitur id pharetra purus.",
+        "duration": "10",
+        "star": "3",
+        "views": "3",
+        "status": true
+      },
+      {
+        "id": 2,
+        "id_user": 1,
+        "imageUrl": "https://a.espncdn.com/photo/2022/0817/r1049548_2_711x284_5-2.jpg",
+        "category": "Basquete",
+        "title": "Lebron iguala recorde da carreira!",
+        "resume": "Aos 37 anos de idade, Lebron iguala seu recorde de 39 pontos e garante aos Lakers mais uma vitória na NBA",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod risus ac tincidunt porta. Quisque efficitur ipsum in lacus interdum egestas. Fusce porta velit felis, non tincidunt arcu ullamcorper quis. Fusce ullamcorper lorem at ipsum gravida dapibus. Quisque elementum mi vel nisi eleifend, sit amet imperdiet dolor facilisis. Nullam vehicula, massa sit amet cursus tristique, eros odio pretium leo, egestas lacinia erat mi nec arcu. Integer tempus felis massa. Curabitur id pharetra purus.",
+        "duration": "7",
+        "star": "5",
+        "views": "3",
+        "status": true
+      },
+      {
+        "id": 3,
+        "id_user": 3,
+        "imageUrl": "https://www.lance.com.br/files/article_main/uploads/2022/11/12/63701ecb9f765.jpeg",
+        "category": "Futebol",
+        "title": "Flamengo oficializa contratação de Vitor Pereira",
+        "resume": "Após posição controversa e atitude polêmica, Vitor Pereira é oficializado como técnico do time Rubro Negro",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod risus ac tincidunt porta. Quisque efficitur ipsum in lacus interdum egestas. Fusce porta velit felis, non tincidunt arcu ullamcorper quis. Fusce ullamcorper lorem at ipsum gravida dapibus. Quisque elementum mi vel nisi eleifend, sit amet imperdiet dolor facilisis. Nullam vehicula, massa sit amet cursus tristique, eros odio pretium leo, egestas lacinia erat mi nec arcu. Integer tempus felis massa. Curabitur id pharetra purus.",
+        "duration": "15",
+        "star": "5",
+        "views": "3",
+        "status": true
+      },
+      {
+        "id": 4,
+        "id_user": 3,
+        "imageUrl": "https://imagens.ebc.com.br/snnBTGjV4SLVDLEPaBxB7DB5KWk=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2021-08-02t143137z_1020175330_sp1eh8214cldq_rtrmadp_3_olympics-2020-vvo-w-team6-gpa-001500.jpg?itok=ZtgxuPN8",
+        "category": "Vôlei",
+        "title": "Brasil enfrentará o Japão nas quartas de finais do Campeonato Feminino",
+        "resume": "Seleção Brasileira Feminina avança e enfrentará o Japão no Mundial da Holanda",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod risus ac tincidunt porta. Quisque efficitur ipsum in lacus interdum egestas. Fusce porta velit felis, non tincidunt arcu ullamcorper quis. Fusce ullamcorper lorem at ipsum gravida dapibus. Quisque elementum mi vel nisi eleifend, sit amet imperdiet dolor facilisis. Nullam vehicula, massa sit amet cursus tristique, eros odio pretium leo, egestas lacinia erat mi nec arcu. Integer tempus felis massa. Curabitur id pharetra purus.",
+        "duration": "8",
+        "star": "4",
+        "views": "3",
+        "status": true
+      },
+      {
+        "id": 5,
+        "id_user": 2,
+
+        "imageUrl": "https://p2.trrsf.com/image/fget/cf/1200/1200/middle/images.terra.com/2022/11/08/hamilton-mostra-a-bandeira-do-brasil-no-podio-twitter-f1-sok3gu7gcc39.jpg",
+        "category": "Fórmula 1",
+        "title": "Lewis Hamilton se torna oficialmente um cidadão brasileiro!",
+        "resume": "Câmara concede o título de cidadão honorário ao piloto Lewis Hamilton antes do GP de São Paulo nesse fim de semana ",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod risus ac tincidunt porta. Quisque efficitur ipsum in lacus interdum egestas. Fusce porta velit felis, non tincidunt arcu ullamcorper quis. Fusce ullamcorper lorem at ipsum gravida dapibus. Quisque elementum mi vel nisi eleifend, sit amet imperdiet dolor facilisis. Nullam vehicula, massa sit amet cursus tristique, eros odio pretium leo, egestas lacinia erat mi nec arcu. Integer tempus felis massa. Curabitur id pharetra purus.",
+        "duration": "8",
+        "star": "5",
+        "views": "3",
+        "status": true
+      },
+      {
+        "id": 6,
+        "id_user": 3,
+        "imageUrl": "https://www.olimpiadatododia.com.br/wp-content/uploads/2022/08/Brasil-basquete-masculino-FIBA.png",
+        "category": "Basquete",
+        "title": "Brasil fica mais perto do Mundial de Basquete",
+        "resume": "Seleção derrota o México e avança para segunda colocação do grupo F, tendo 7 vitórias e 3 derrotas. Os três maiores colocados de cada grupo avançam.",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod risus ac tincidunt porta. Quisque efficitur ipsum in lacus interdum egestas. Fusce porta velit felis, non tincidunt arcu ullamcorper quis. Fusce ullamcorper lorem at ipsum gravida dapibus. Quisque elementum mi vel nisi eleifend, sit amet imperdiet dolor facilisis. Nullam vehicula, massa sit amet cursus tristique, eros odio pretium leo, egestas lacinia erat mi nec arcu. Integer tempus felis massa. Curabitur id pharetra purus.",
+        "duration": "8",
+        "star": "3",
+        "views": "3",
+        "status": true
+      },
+      {
+        "id": 7,
+        "id_user": 1,
+        "imageUrl": "https://i0.wp.com/paponacolina.com.br/wp-content/uploads/2022/12/Vasco-renova-com-Nene.webp?resize=648%2C375&ssl=1",
+        "category": "Futebol",
+        "title": "Vasco renova com Nenê até o fim do Carioca",
+        "resume": "Meia de 41 anos tem seu contrato renovado até o fim do Campeonato Carioca. Clube garante um cargo dentro do clube, caso Nenê decida se aposentar do futebol",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod risus ac tincidunt porta. Quisque efficitur ipsum in lacus interdum egestas. Fusce porta velit felis, non tincidunt arcu ullamcorper quis. Fusce ullamcorper lorem at ipsum gravida dapibus. Quisque elementum mi vel nisi eleifend, sit amet imperdiet dolor facilisis. Nullam vehicula, massa sit amet cursus tristique, eros odio pretium leo, egestas lacinia erat mi nec arcu. Integer tempus felis massa. Curabitur id pharetra purus.",
+        "duration": "8",
+        "star": "4",
+        "views": "3",
+        "status": true
+      },
+      {
+        "id": 8,
+        "id_user": 1,
+        "imageUrl": "https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/2016-08-17t022853z_1751415788_rioec8h06w2d9_rtrmadp_3_olympics-rio-volleyball-w.jpg",
+        "category": "Vôlei",
+        "title": "ESPN transmitirá o Mundial de Vôlei Feminino",
+        "resume": "Programação será confirmada no restante da semana. O narrador será Rômulo Mendonça",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod risus ac tincidunt porta. Quisque efficitur ipsum in lacus interdum egestas. Fusce porta velit felis, non tincidunt arcu ullamcorper quis. Fusce ullamcorper lorem at ipsum gravida dapibus. Quisque elementum mi vel nisi eleifend, sit amet imperdiet dolor facilisis. Nullam vehicula, massa sit amet cursus tristique, eros odio pretium leo, egestas lacinia erat mi nec arcu. Integer tempus felis massa. Curabitur id pharetra purus.",
+        "duration": "8",
+        "star": "4",
+        "views": "3",
+        "status": true
+      }
+    ],
+    "user": [
+      {
+        "id": 1,
+        "user": "dario",
+        "name": "Dário",
+        "surname": "Costa",
+        "token": "E10ADC3949BA59ABBE56E057F20F883E",
+        "description": "Jornalista a mais de 15 anos, sou apaixonado pelo esporte e pelo futebol bem jogado",
+        "ImageProfile": "https://images.unsplash.com/photo-1505247964246-1f0a90443c36?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+      },
+      {
+        "id": 2,
+        "user": "julio",
+        "name": "Júlio",
+        "surname": "Rodrigues",
+        "token": "E10ADC3949BA59ABBE56E057F20F883E",
+        "description": "Jornalista Esportivo e Setorista do Atlético-PR. Apaixonado em viver a vida.",
+        "ImageProfile": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+      },
+      {
+        "id": 3,
+        "user": "sandra",
+        "name": "Sandra",
+        "surname": "Manezes",
+        "token": "E10ADC3949BA59ABBE56E057F20F883E",
+        "description": "Apaixonada pelo esporte desde 1993. Colunista e nas horas vagas escrevo para o blog.",
+        "ImageProfile": "https://images.unsplash.com/photo-1615143942325-b195e4801b26?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+      }
+    ]
+  }

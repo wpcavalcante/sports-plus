@@ -1,0 +1,46 @@
+.notfound{
+    margin-top: 15rem;
+    .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        .logo-wrapper{
+            max-width: 15rem;
+            img{
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+        }
+        .instructions{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            h1{
+                font-size: 8rem;
+                margin-top: 2rem;
+            }
+            h5{
+                font-size: 3rem;
+            }
+            p{
+                margin-top: 1rem;
+                font-size: 1.5rem;
+                max-width: 30rem;
+                
+            }
+            a{
+                margin-top: 3rem;
+                color:var(--text-color2);
+                padding: 10px 2.4rem;
+                background: var(--btn-color);
+                border-radius: 4px;
+                text-transform: uppercase;
+                font-weight: 700;
+            }
+        }
+    }
+}
